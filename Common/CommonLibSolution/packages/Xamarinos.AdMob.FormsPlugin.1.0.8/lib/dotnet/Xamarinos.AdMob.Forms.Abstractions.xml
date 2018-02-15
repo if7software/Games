@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Xamarinos.AdMob.Forms.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="M:Xamarinos.AdMob.Forms.Abstractions.IInterstitialAdManager.Show(System.Action)">
+             <summary>
+             Show Interstitial Ad.
+             </summary>
+            </member>
+        <member name="P:Xamarinos.AdMob.Forms.AdBanner.AdID">
+             <summary>
+             Gets or sets the ad identifier.
+             </summary>
+             <value>The ad identifier</value>
+            </member>
+    </members>
+</doc>

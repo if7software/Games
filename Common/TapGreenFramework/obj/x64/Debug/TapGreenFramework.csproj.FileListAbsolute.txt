@@ -1,0 +1,10 @@
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\TapGreenFramework.dll
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\TapGreenFramework.pdb
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\Mono.Android.dll
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\MonoGame.Framework.dll
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\Mono.Android.pdb
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\Mono.Android.xml
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\bin\x64\Debug\MonoGame.Framework.xml
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\obj\x64\Debug\TapGreenFramework.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\obj\x64\Debug\TapGreenFramework.dll
+D:\WORKSPACE\CODE\Games\Common\TapGreenFramework\obj\x64\Debug\TapGreenFramework.pdb

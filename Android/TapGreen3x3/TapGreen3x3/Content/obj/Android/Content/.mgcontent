@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/cross.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/facebook.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/finish.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/minus.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/pause.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/plus.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/SagoePrint48.spritefont</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/SagoePrint64.spritefont</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/SagoePrint98.spritefont</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/symbol.png</File>
+    <File>D:/WORKSPACE/CODE/Games/Android/TapGreen3x3/TapGreen3x3/Content/twitter.png</File>
+  </SourceFiles>
+</SourceFileCollection>
